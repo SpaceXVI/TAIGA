@@ -1,0 +1,12 @@
+{
+  "default": [
+    {
+      "name": "taiga:bright",
+      "level": 1
+    },
+    {
+      "name": "taiga:glimmer",
+      "level": 1
+    }
+  ]
+}

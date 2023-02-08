@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:material_fluid",
+  "fluid": {
+    "tag": "taiga:adamant_fluid",
+    "amount": 144
+  },
+  "temperature": 1350,
+  "output": "taiga:adamant"
+}

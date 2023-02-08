@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:casting_basin",
+  "fluid": {
+    "tag": "taiga:nucleum_fluid",
+    "amount": 1296
+  },
+  "result": "taiga:nucleum_block",
+  "cooling_time": 112
+}

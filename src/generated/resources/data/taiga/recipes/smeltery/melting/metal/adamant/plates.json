@@ -1,0 +1,21 @@
+{
+  "type": "tconstruct:melting",
+  "conditions": [
+    {
+      "value": {
+        "tag": "forge:plates/adamant",
+        "type": "forge:tag_empty"
+      },
+      "type": "forge:not"
+    }
+  ],
+  "ingredient": {
+    "tag": "forge:plates/adamant"
+  },
+  "result": {
+    "fluid": "taiga:adamant_fluid",
+    "amount": 144
+  },
+  "temperature": 1350,
+  "time": 76
+}

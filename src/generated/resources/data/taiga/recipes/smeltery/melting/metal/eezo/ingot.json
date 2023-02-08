@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "tag": "forge:ingots/eezo"
+  },
+  "result": {
+    "fluid": "taiga:eezo_fluid",
+    "amount": 144
+  },
+  "temperature": 150,
+  "time": 36
+}

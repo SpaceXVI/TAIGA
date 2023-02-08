@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "taiga:block/adamant_fluid_block"
+    }
+  }
+}

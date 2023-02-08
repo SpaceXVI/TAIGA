@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:ore_melting",
+  "ingredient": {
+    "tag": "forge:ores/tiberium"
+  },
+  "result": {
+    "fluid": "taiga:tiberium_fluid",
+    "amount": 144
+  },
+  "temperature": 100,
+  "time": 50
+}

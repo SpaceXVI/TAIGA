@@ -1,0 +1,13 @@
+{
+  "type": "tconstruct:casting_table",
+  "cast": {
+    "tag": "tconstruct:casts/single_use/ingot"
+  },
+  "cast_consumed": true,
+  "fluid": {
+    "tag": "taiga:tiberium_fluid",
+    "amount": 144
+  },
+  "result": "taiga:tiberium_ingot",
+  "cooling_time": 33
+}

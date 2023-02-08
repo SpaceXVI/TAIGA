@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "tag": "forge:storage_blocks/eezo"
+  },
+  "result": {
+    "fluid": "taiga:eezo_fluid",
+    "amount": 1296
+  },
+  "temperature": 150,
+  "time": 107
+}

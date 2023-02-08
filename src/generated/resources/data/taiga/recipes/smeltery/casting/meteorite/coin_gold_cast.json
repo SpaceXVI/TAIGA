@@ -1,0 +1,23 @@
+{
+  "type": "tconstruct:casting_table",
+  "conditions": [
+    {
+      "value": {
+        "tag": "forge:coins/meteorite",
+        "type": "forge:tag_empty"
+      },
+      "type": "forge:not"
+    }
+  ],
+  "cast": {
+    "tag": "tconstruct:casts/multi_use/coin"
+  },
+  "fluid": {
+    "tag": "taiga:meteorite_fluid",
+    "amount": 48
+  },
+  "result": {
+    "tag": "forge:coins/meteorite"
+  },
+  "cooling_time": 32
+}

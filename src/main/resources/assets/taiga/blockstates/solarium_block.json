@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "taiga:block/solarium_block"
+    }
+  }
+}

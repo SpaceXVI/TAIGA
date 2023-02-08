@@ -1,0 +1,21 @@
+{
+  "type": "tconstruct:melting",
+  "conditions": [
+    {
+      "value": {
+        "tag": "forge:coins/solarium",
+        "type": "forge:tag_empty"
+      },
+      "type": "forge:not"
+    }
+  ],
+  "ingredient": {
+    "tag": "forge:coins/solarium"
+  },
+  "result": {
+    "fluid": "taiga:solarium_fluid",
+    "amount": 48
+  },
+  "temperature": 1200,
+  "time": 48
+}

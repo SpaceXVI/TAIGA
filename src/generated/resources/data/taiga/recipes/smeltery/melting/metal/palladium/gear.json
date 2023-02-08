@@ -1,0 +1,21 @@
+{
+  "type": "tconstruct:melting",
+  "conditions": [
+    {
+      "value": {
+        "tag": "forge:gears/palladium",
+        "type": "forge:tag_empty"
+      },
+      "type": "forge:not"
+    }
+  ],
+  "ingredient": {
+    "tag": "forge:gears/palladium"
+  },
+  "result": {
+    "fluid": "taiga:palladium_fluid",
+    "amount": 576
+  },
+  "temperature": 390,
+  "time": 92
+}

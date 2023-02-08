@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:ore_melting",
+  "ingredient": {
+    "tag": "forge:ores/abyssum"
+  },
+  "result": {
+    "fluid": "taiga:abyssum_fluid",
+    "amount": 144
+  },
+  "temperature": 400,
+  "time": 69
+}

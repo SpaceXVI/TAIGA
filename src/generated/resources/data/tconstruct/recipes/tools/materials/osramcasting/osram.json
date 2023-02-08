@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:material_fluid",
+  "fluid": {
+    "tag": "taiga:osram_fluid",
+    "amount": 144
+  },
+  "temperature": 500,
+  "output": "taiga:osram"
+}

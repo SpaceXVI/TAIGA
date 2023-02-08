@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "tag": "forge:storage_blocks/adamant"
+  },
+  "result": {
+    "fluid": "taiga:adamant_fluid",
+    "amount": 1296
+  },
+  "temperature": 1350,
+  "time": 229
+}

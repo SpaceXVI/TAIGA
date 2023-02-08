@@ -1,0 +1,21 @@
+{
+  "type": "tconstruct:melting",
+  "conditions": [
+    {
+      "value": {
+        "tag": "forge:wires/imperomite",
+        "type": "forge:tag_empty"
+      },
+      "type": "forge:not"
+    }
+  ],
+  "ingredient": {
+    "tag": "forge:wires/imperomite"
+  },
+  "result": {
+    "fluid": "taiga:imperomite_fluid",
+    "amount": 72
+  },
+  "temperature": 600,
+  "time": 11
+}

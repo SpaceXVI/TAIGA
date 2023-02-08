@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:material_melting",
+  "input": "taiga:yrdeen",
+  "temperature": 410,
+  "result": {
+    "fluid": "taiga:yrdeen_fluid",
+    "amount": 144
+  }
+}

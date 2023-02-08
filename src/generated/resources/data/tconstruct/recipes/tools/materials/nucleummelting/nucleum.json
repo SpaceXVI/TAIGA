@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:material_melting",
+  "input": "taiga:nucleum",
+  "temperature": 190,
+  "result": {
+    "fluid": "taiga:nucleum_fluid",
+    "amount": 144
+  }
+}

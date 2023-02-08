@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:material_fluid",
+  "fluid": {
+    "tag": "taiga:dyonite_fluid",
+    "amount": 144
+  },
+  "temperature": 360,
+  "output": "taiga:dyonite"
+}

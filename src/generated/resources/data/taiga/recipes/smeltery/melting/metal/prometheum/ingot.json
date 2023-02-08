@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "tag": "forge:ingots/prometheum"
+  },
+  "result": {
+    "fluid": "taiga:prometheum_fluid",
+    "amount": 144
+  },
+  "temperature": 550,
+  "time": 52
+}

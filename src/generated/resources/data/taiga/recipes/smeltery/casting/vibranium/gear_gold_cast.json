@@ -1,0 +1,23 @@
+{
+  "type": "tconstruct:casting_table",
+  "conditions": [
+    {
+      "value": {
+        "tag": "forge:gears/vibranium",
+        "type": "forge:tag_empty"
+      },
+      "type": "forge:not"
+    }
+  ],
+  "cast": {
+    "tag": "tconstruct:casts/multi_use/gear"
+  },
+  "fluid": {
+    "tag": "taiga:vibranium_fluid",
+    "amount": 576
+  },
+  "result": {
+    "tag": "forge:gears/vibranium"
+  },
+  "cooling_time": 218
+}

@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:material",
+  "ingredient": {
+    "tag": "forge:storage_blocks/ignitz"
+  },
+  "value": 9,
+  "needed": 1,
+  "material": "taiga:ignitz",
+  "leftover": {
+    "tag": "forge:ingots/ignitz"
+  }
+}

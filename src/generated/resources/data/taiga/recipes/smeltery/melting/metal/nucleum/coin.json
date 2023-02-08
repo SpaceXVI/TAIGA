@@ -1,0 +1,21 @@
+{
+  "type": "tconstruct:melting",
+  "conditions": [
+    {
+      "value": {
+        "tag": "forge:coins/nucleum",
+        "type": "forge:tag_empty"
+      },
+      "type": "forge:not"
+    }
+  ],
+  "ingredient": {
+    "tag": "forge:coins/nucleum"
+  },
+  "result": {
+    "fluid": "taiga:nucleum_fluid",
+    "amount": 48
+  },
+  "temperature": 190,
+  "time": 25
+}

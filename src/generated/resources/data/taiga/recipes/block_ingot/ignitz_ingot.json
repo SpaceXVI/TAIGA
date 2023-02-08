@@ -1,0 +1,34 @@
+{
+  "type": "forge:conditional",
+  "recipes": [
+    {
+      "conditions": [
+        {
+          "values": [
+            {
+              "item": "taiga:ignitz_block",
+              "type": "forge:item_exists"
+            },
+            {
+              "item": "taiga:ignitz_ingot",
+              "type": "forge:item_exists"
+            }
+          ],
+          "type": "forge:and"
+        }
+      ],
+      "recipe": {
+        "type": "minecraft:crafting_shapeless",
+        "ingredients": [
+          {
+            "item": "taiga:ignitz_block"
+          }
+        ],
+        "result": {
+          "item": "taiga:ignitz_ingot",
+          "count": 9
+        }
+      }
+    }
+  ]
+}

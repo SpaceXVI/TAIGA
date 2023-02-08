@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "taiga:block/iox_fluid_block"
+    }
+  }
+}

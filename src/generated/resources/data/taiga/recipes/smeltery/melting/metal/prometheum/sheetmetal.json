@@ -1,0 +1,21 @@
+{
+  "type": "tconstruct:melting",
+  "conditions": [
+    {
+      "value": {
+        "tag": "forge:sheetmetals/prometheum",
+        "type": "forge:tag_empty"
+      },
+      "type": "forge:not"
+    }
+  ],
+  "ingredient": {
+    "tag": "forge:sheetmetals/prometheum"
+  },
+  "result": {
+    "fluid": "taiga:prometheum_fluid",
+    "amount": 144
+  },
+  "temperature": 550,
+  "time": 52
+}

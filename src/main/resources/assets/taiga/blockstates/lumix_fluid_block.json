@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "taiga:block/lumix_fluid_block"
+    }
+  }
+}

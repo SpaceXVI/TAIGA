@@ -1,0 +1,24 @@
+{
+  "type": "tconstruct:casting_table",
+  "conditions": [
+    {
+      "value": {
+        "tag": "forge:coins/lumix",
+        "type": "forge:tag_empty"
+      },
+      "type": "forge:not"
+    }
+  ],
+  "cast": {
+    "tag": "tconstruct:casts/single_use/coin"
+  },
+  "cast_consumed": true,
+  "fluid": {
+    "tag": "taiga:lumix_fluid",
+    "amount": 48
+  },
+  "result": {
+    "tag": "forge:coins/lumix"
+  },
+  "cooling_time": 21
+}

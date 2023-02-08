@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:casting_basin",
+  "fluid": {
+    "tag": "taiga:vibranium_fluid",
+    "amount": 1296
+  },
+  "result": "taiga:vibranium_block",
+  "cooling_time": 328
+}

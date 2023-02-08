@@ -1,0 +1,23 @@
+{
+  "type": "tconstruct:casting_table",
+  "conditions": [
+    {
+      "value": {
+        "tag": "forge:coins/nucleum",
+        "type": "forge:tag_empty"
+      },
+      "type": "forge:not"
+    }
+  ],
+  "cast": {
+    "tag": "tconstruct:casts/multi_use/coin"
+  },
+  "fluid": {
+    "tag": "taiga:nucleum_fluid",
+    "amount": 48
+  },
+  "result": {
+    "tag": "forge:coins/nucleum"
+  },
+  "cooling_time": 22
+}

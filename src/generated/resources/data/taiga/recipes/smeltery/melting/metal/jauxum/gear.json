@@ -1,0 +1,21 @@
+{
+  "type": "tconstruct:melting",
+  "conditions": [
+    {
+      "value": {
+        "tag": "forge:gears/jauxum",
+        "type": "forge:tag_empty"
+      },
+      "type": "forge:not"
+    }
+  ],
+  "ingredient": {
+    "tag": "forge:gears/jauxum"
+  },
+  "result": {
+    "fluid": "taiga:jauxum_fluid",
+    "amount": 576
+  },
+  "temperature": 450,
+  "time": 96
+}

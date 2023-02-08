@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:casting_basin",
+  "fluid": {
+    "tag": "taiga:aurorium_fluid",
+    "amount": 1296
+  },
+  "result": "taiga:aurorium_block",
+  "cooling_time": 144
+}

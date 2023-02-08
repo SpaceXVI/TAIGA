@@ -1,0 +1,23 @@
+{
+  "type": "tconstruct:casting_table",
+  "conditions": [
+    {
+      "value": {
+        "tag": "forge:gears/dyonite",
+        "type": "forge:tag_empty"
+      },
+      "type": "forge:not"
+    }
+  ],
+  "cast": {
+    "tag": "tconstruct:casts/multi_use/gear"
+  },
+  "fluid": {
+    "tag": "taiga:dyonite_fluid",
+    "amount": 576
+  },
+  "result": {
+    "tag": "forge:gears/dyonite"
+  },
+  "cooling_time": 89
+}

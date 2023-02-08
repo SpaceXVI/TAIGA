@@ -1,0 +1,21 @@
+{
+  "type": "tconstruct:melting",
+  "conditions": [
+    {
+      "value": {
+        "tag": "forge:gears/osram",
+        "type": "forge:tag_empty"
+      },
+      "type": "forge:not"
+    }
+  ],
+  "ingredient": {
+    "tag": "forge:gears/osram"
+  },
+  "result": {
+    "fluid": "taiga:osram_fluid",
+    "amount": 576
+  },
+  "temperature": 500,
+  "time": 100
+}

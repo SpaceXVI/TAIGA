@@ -1,0 +1,21 @@
+{
+  "type": "tconstruct:melting",
+  "conditions": [
+    {
+      "value": {
+        "tag": "forge:wires/ovium",
+        "type": "forge:tag_empty"
+      },
+      "type": "forge:not"
+    }
+  ],
+  "ingredient": {
+    "tag": "forge:wires/ovium"
+  },
+  "result": {
+    "fluid": "taiga:ovium_fluid",
+    "amount": 72
+  },
+  "temperature": 450,
+  "time": 10
+}

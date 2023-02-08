@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:ore_melting",
+  "ingredient": {
+    "tag": "forge:ores/vibranium"
+  },
+  "result": {
+    "fluid": "taiga:vibranium_fluid",
+    "amount": 144
+  },
+  "temperature": 2750,
+  "time": 164
+}

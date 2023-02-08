@@ -1,0 +1,34 @@
+{
+  "type": "forge:conditional",
+  "recipes": [
+    {
+      "conditions": [
+        {
+          "values": [
+            {
+              "item": "taiga:imperomite_ingot",
+              "type": "forge:item_exists"
+            },
+            {
+              "item": "taiga:imperomite_nugget",
+              "type": "forge:item_exists"
+            }
+          ],
+          "type": "forge:and"
+        }
+      ],
+      "recipe": {
+        "type": "minecraft:crafting_shapeless",
+        "ingredients": [
+          {
+            "item": "taiga:imperomite_ingot"
+          }
+        ],
+        "result": {
+          "item": "taiga:imperomite_nugget",
+          "count": 9
+        }
+      }
+    }
+  ]
+}

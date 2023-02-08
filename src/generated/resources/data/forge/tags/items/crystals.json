@@ -1,0 +1,7 @@
+{
+  "replace": true,
+  "values": [
+    "taiga:dilithium_crystal",
+    "taiga:tiberium_crystal"
+  ]
+}

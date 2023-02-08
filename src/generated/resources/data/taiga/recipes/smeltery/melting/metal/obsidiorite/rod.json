@@ -1,0 +1,21 @@
+{
+  "type": "tconstruct:melting",
+  "conditions": [
+    {
+      "value": {
+        "tag": "forge:rods/obsidiorite",
+        "type": "forge:tag_empty"
+      },
+      "type": "forge:not"
+    }
+  ],
+  "ingredient": {
+    "tag": "forge:rods/obsidiorite"
+  },
+  "result": {
+    "fluid": "taiga:obsidiorite_fluid",
+    "amount": 72
+  },
+  "temperature": 750,
+  "time": 12
+}

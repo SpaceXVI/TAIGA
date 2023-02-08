@@ -1,0 +1,14 @@
+{
+  "type": "tconstruct:material",
+  "ingredient": [
+    {
+      "item": "taiga:tiberium_dust"
+    },
+    {
+      "item": "taiga:tiberium_ingot"
+    }
+  ],
+  "value": 1,
+  "needed": 1,
+  "material": "taiga:tiberium"
+}

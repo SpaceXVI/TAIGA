@@ -1,0 +1,38 @@
+{
+  "type": "forge:conditional",
+  "recipes": [
+    {
+      "conditions": [
+        {
+          "values": [
+            {
+              "item": "taiga:vibranium_block",
+              "type": "forge:item_exists"
+            },
+            {
+              "item": "taiga:vibranium_ingot",
+              "type": "forge:item_exists"
+            }
+          ],
+          "type": "forge:and"
+        }
+      ],
+      "recipe": {
+        "type": "minecraft:crafting_shaped",
+        "pattern": [
+          "###",
+          "###",
+          "###"
+        ],
+        "key": {
+          "#": {
+            "item": "taiga:vibranium_ingot"
+          }
+        },
+        "result": {
+          "item": "taiga:vibranium_block"
+        }
+      }
+    }
+  ]
+}

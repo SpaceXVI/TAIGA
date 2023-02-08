@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "taiga:block/ignitz_fluid_block"
+    }
+  }
+}

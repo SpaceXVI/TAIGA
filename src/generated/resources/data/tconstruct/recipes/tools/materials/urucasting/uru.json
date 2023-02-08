@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:material_fluid",
+  "fluid": {
+    "tag": "taiga:uru_fluid",
+    "amount": 144
+  },
+  "temperature": 900,
+  "output": "taiga:uru"
+}

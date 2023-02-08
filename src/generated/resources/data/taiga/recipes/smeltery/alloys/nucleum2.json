@@ -1,0 +1,22 @@
+{
+  "type": "tconstruct:alloy",
+  "inputs": [
+    {
+      "name": "taiga:niob_fluid",
+      "amount": 3
+    },
+    {
+      "name": "taiga:eezo_fluid",
+      "amount": 1
+    },
+    {
+      "name": "taiga:abyssum_fluid",
+      "amount": 1
+    }
+  ],
+  "result": {
+    "fluid": "taiga:nucleum_fluid",
+    "amount": 3
+  },
+  "temperature": 190
+}

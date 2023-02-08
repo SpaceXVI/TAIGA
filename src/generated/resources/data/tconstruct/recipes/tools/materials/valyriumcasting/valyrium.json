@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:material_fluid",
+  "fluid": {
+    "tag": "taiga:valyrium_fluid",
+    "amount": 144
+  },
+  "temperature": 1615,
+  "output": "taiga:valyrium"
+}

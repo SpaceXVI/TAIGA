@@ -1,0 +1,21 @@
+{
+  "type": "tconstruct:melting",
+  "conditions": [
+    {
+      "value": {
+        "tag": "forge:sheetmetals/duranite",
+        "type": "forge:tag_empty"
+      },
+      "type": "forge:not"
+    }
+  ],
+  "ingredient": {
+    "tag": "forge:sheetmetals/duranite"
+  },
+  "result": {
+    "fluid": "taiga:duranite_fluid",
+    "amount": 144
+  },
+  "temperature": 1100,
+  "time": 69
+}

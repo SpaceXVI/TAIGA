@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "tag": "forge:ingots/ignitz"
+  },
+  "result": {
+    "fluid": "taiga:ignitz_fluid",
+    "amount": 144
+  },
+  "temperature": 650,
+  "time": 55
+}

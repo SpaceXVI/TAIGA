@@ -1,0 +1,23 @@
+{
+  "type": "tconstruct:casting_table",
+  "conditions": [
+    {
+      "value": {
+        "tag": "forge:coins/valyrium",
+        "type": "forge:tag_empty"
+      },
+      "type": "forge:not"
+    }
+  ],
+  "cast": {
+    "tag": "tconstruct:casts/multi_use/coin"
+  },
+  "fluid": {
+    "tag": "taiga:valyrium_fluid",
+    "amount": 48
+  },
+  "result": {
+    "tag": "forge:coins/valyrium"
+  },
+  "cooling_time": 48
+}

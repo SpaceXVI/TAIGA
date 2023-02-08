@@ -1,0 +1,21 @@
+{
+  "type": "tconstruct:melting",
+  "conditions": [
+    {
+      "value": {
+        "tag": "forge:gears/meteorite",
+        "type": "forge:tag_empty"
+      },
+      "type": "forge:not"
+    }
+  ],
+  "ingredient": {
+    "tag": "forge:gears/meteorite"
+  },
+  "result": {
+    "fluid": "taiga:meteorite_fluid",
+    "amount": 576
+  },
+  "temperature": 650,
+  "time": 110
+}

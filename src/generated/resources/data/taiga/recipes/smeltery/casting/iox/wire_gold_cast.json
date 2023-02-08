@@ -1,0 +1,23 @@
+{
+  "type": "tconstruct:casting_table",
+  "conditions": [
+    {
+      "value": {
+        "tag": "forge:wires/iox",
+        "type": "forge:tag_empty"
+      },
+      "type": "forge:not"
+    }
+  ],
+  "cast": {
+    "tag": "tconstruct:casts/multi_use/wire"
+  },
+  "fluid": {
+    "tag": "taiga:iox_fluid",
+    "amount": 72
+  },
+  "result": {
+    "tag": "forge:wires/iox"
+  },
+  "cooling_time": 38
+}

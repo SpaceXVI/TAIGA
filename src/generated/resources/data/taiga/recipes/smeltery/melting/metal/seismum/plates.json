@@ -1,0 +1,21 @@
+{
+  "type": "tconstruct:melting",
+  "conditions": [
+    {
+      "value": {
+        "tag": "forge:plates/seismum",
+        "type": "forge:tag_empty"
+      },
+      "type": "forge:not"
+    }
+  ],
+  "ingredient": {
+    "tag": "forge:plates/seismum"
+  },
+  "result": {
+    "fluid": "taiga:seismum_fluid",
+    "amount": 144
+  },
+  "temperature": 420,
+  "time": 47
+}

@@ -1,0 +1,34 @@
+modLoader="javafml" #mandatory
+loaderVersion="[35,)"
+license="All rights reserved"
+issueTrackerURL="http://my.issue.tracker/"
+
+[[mods]]
+modId="taiga"
+version="${file.jarVersion}"
+displayName="Tinkers Alloying Addon"
+logoFile="logo.png"
+credits="Huge thanks to Zkaface and IdleGandalf for making the original mod, And to Sageas for making the new textures."
+authors="MS55"
+description='''An addon for Tinkers' Construct! 32 New Materials including 16 various alloys.'''
+
+[[dependencies.taiga]]
+    modId="forge"
+    mandatory=true
+    versionRange="[35,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.taiga]]
+    modId="tconstruct"
+    mandatory=true
+    versionRange="[3,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.taiga]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.3,1.17)"
+    ordering="NONE"
+    side="BOTH"

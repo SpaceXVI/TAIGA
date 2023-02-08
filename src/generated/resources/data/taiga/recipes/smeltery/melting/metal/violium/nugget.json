@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "tag": "forge:nuggets/violium"
+  },
+  "result": {
+    "fluid": "taiga:violium_fluid",
+    "amount": 16
+  },
+  "temperature": 550,
+  "time": 17
+}

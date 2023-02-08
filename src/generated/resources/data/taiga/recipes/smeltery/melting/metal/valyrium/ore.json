@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:ore_melting",
+  "ingredient": {
+    "tag": "forge:ores/valyrium"
+  },
+  "result": {
+    "fluid": "taiga:valyrium_fluid",
+    "amount": 144
+  },
+  "temperature": 1615,
+  "time": 125
+}

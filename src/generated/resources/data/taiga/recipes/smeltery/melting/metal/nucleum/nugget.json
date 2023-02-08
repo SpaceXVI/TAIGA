@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "tag": "forge:nuggets/nucleum"
+  },
+  "result": {
+    "fluid": "taiga:nucleum_fluid",
+    "amount": 16
+  },
+  "temperature": 190,
+  "time": 12
+}

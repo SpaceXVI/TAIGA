@@ -1,0 +1,21 @@
+{
+  "type": "tconstruct:melting",
+  "conditions": [
+    {
+      "value": {
+        "tag": "forge:sheetmetals/imperomite",
+        "type": "forge:tag_empty"
+      },
+      "type": "forge:not"
+    }
+  ],
+  "ingredient": {
+    "tag": "forge:sheetmetals/imperomite"
+  },
+  "result": {
+    "fluid": "taiga:imperomite_fluid",
+    "amount": 144
+  },
+  "temperature": 600,
+  "time": 53
+}

@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "tag": "forge:ingots/palladium"
+  },
+  "result": {
+    "fluid": "taiga:palladium_fluid",
+    "amount": 144
+  },
+  "temperature": 390,
+  "time": 46
+}

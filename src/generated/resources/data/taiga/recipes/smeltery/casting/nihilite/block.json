@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:casting_basin",
+  "fluid": {
+    "tag": "taiga:nihilite_fluid",
+    "amount": 1296
+  },
+  "result": "taiga:nihilite_block",
+  "cooling_time": 124
+}

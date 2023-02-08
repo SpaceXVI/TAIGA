@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:casting_table",
+  "cast": {
+    "tag": "tconstruct:casts/multi_use/nugget"
+  },
+  "fluid": {
+    "tag": "taiga:osram_fluid",
+    "amount": 16
+  },
+  "result": "taiga:osram_nugget",
+  "cooling_time": 17
+}

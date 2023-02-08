@@ -1,0 +1,21 @@
+{
+  "type": "tconstruct:melting",
+  "conditions": [
+    {
+      "value": {
+        "tag": "forge:dusts/niob",
+        "type": "forge:tag_empty"
+      },
+      "type": "forge:not"
+    }
+  ],
+  "ingredient": {
+    "tag": "forge:dusts/niob"
+  },
+  "result": {
+    "fluid": "taiga:niob_fluid",
+    "amount": 144
+  },
+  "temperature": 250,
+  "time": 30
+}

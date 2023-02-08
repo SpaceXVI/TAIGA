@@ -1,0 +1,21 @@
+{
+  "type": "tconstruct:melting",
+  "conditions": [
+    {
+      "value": {
+        "tag": "forge:sheetmetals/ignitz",
+        "type": "forge:tag_empty"
+      },
+      "type": "forge:not"
+    }
+  ],
+  "ingredient": {
+    "tag": "forge:sheetmetals/ignitz"
+  },
+  "result": {
+    "fluid": "taiga:ignitz_fluid",
+    "amount": 144
+  },
+  "temperature": 650,
+  "time": 55
+}

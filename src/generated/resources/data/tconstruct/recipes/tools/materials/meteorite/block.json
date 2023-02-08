@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:material",
+  "ingredient": {
+    "tag": "forge:storage_blocks/meteorite"
+  },
+  "value": 9,
+  "needed": 1,
+  "material": "taiga:meteorite",
+  "leftover": {
+    "tag": "forge:ingots/meteorite"
+  }
+}

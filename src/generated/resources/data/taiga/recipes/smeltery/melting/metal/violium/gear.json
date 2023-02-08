@@ -1,0 +1,21 @@
+{
+  "type": "tconstruct:melting",
+  "conditions": [
+    {
+      "value": {
+        "tag": "forge:gears/violium",
+        "type": "forge:tag_empty"
+      },
+      "type": "forge:not"
+    }
+  ],
+  "ingredient": {
+    "tag": "forge:gears/violium"
+  },
+  "result": {
+    "fluid": "taiga:violium_fluid",
+    "amount": 576
+  },
+  "temperature": 550,
+  "time": 103
+}

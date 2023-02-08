@@ -1,0 +1,21 @@
+{
+  "type": "tconstruct:melting",
+  "conditions": [
+    {
+      "value": {
+        "tag": "forge:sheetmetals/iox",
+        "type": "forge:tag_empty"
+      },
+      "type": "forge:not"
+    }
+  ],
+  "ingredient": {
+    "tag": "forge:sheetmetals/iox"
+  },
+  "result": {
+    "fluid": "taiga:iox_fluid",
+    "amount": 144
+  },
+  "temperature": 600,
+  "time": 53
+}

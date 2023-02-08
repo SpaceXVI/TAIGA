@@ -1,0 +1,21 @@
+{
+  "type": "tconstruct:melting",
+  "conditions": [
+    {
+      "value": {
+        "tag": "forge:wires/solarium",
+        "type": "forge:tag_empty"
+      },
+      "type": "forge:not"
+    }
+  ],
+  "ingredient": {
+    "tag": "forge:wires/solarium"
+  },
+  "result": {
+    "fluid": "taiga:solarium_fluid",
+    "amount": 72
+  },
+  "temperature": 1200,
+  "time": 14
+}

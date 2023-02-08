@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:ore_melting",
+  "ingredient": {
+    "tag": "forge:ores/eezo"
+  },
+  "result": {
+    "fluid": "taiga:eezo_fluid",
+    "amount": 144
+  },
+  "temperature": 150,
+  "time": 53
+}

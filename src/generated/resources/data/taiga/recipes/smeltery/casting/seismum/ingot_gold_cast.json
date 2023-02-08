@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:casting_table",
+  "cast": {
+    "tag": "tconstruct:casts/multi_use/ingot"
+  },
+  "fluid": {
+    "tag": "taiga:seismum_fluid",
+    "amount": 144
+  },
+  "result": "taiga:seismum_ingot",
+  "cooling_time": 47
+}

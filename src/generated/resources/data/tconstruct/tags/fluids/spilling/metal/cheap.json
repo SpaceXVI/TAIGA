@@ -1,0 +1,30 @@
+{
+  "replace": false,
+  "values": [
+    "#forge:abyssum_fluid",
+    "#forge:adamant_fluid",
+    "#forge:astrium_fluid",
+    "#forge:aurorium_fluid",
+    "#forge:duranite_fluid",
+    "#forge:dyonite_fluid",
+    "#forge:eezo_fluid",
+    "#forge:fractum_fluid",
+    "#forge:ignitz_fluid",
+    "#forge:imperomite_fluid",
+    "#forge:iox_fluid",
+    "#forge:lumix_fluid",
+    "#forge:nihilite_fluid",
+    "#forge:nitronite_fluid",
+    "#forge:nucleum_fluid",
+    "#forge:osram_fluid",
+    "#forge:palladium_fluid",
+    "#forge:proxii_fluid",
+    "#forge:seismum_fluid",
+    "#forge:solarium_fluid",
+    "#forge:uru_fluid",
+    "#forge:valyrium_fluid",
+    "#forge:vibranium_fluid",
+    "#forge:violium_fluid",
+    "#forge:yrdeen_fluid"
+  ]
+}

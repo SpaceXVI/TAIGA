@@ -1,0 +1,23 @@
+{
+  "type": "tconstruct:casting_table",
+  "conditions": [
+    {
+      "value": {
+        "tag": "forge:gears/lumix",
+        "type": "forge:tag_empty"
+      },
+      "type": "forge:not"
+    }
+  ],
+  "cast": {
+    "tag": "tconstruct:casts/multi_use/gear"
+  },
+  "fluid": {
+    "tag": "taiga:lumix_fluid",
+    "amount": 576
+  },
+  "result": {
+    "tag": "forge:gears/lumix"
+  },
+  "cooling_time": 71
+}

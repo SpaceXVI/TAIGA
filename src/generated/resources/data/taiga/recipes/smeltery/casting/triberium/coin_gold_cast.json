@@ -1,0 +1,23 @@
+{
+  "type": "tconstruct:casting_table",
+  "conditions": [
+    {
+      "value": {
+        "tag": "forge:coins/triberium",
+        "type": "forge:tag_empty"
+      },
+      "type": "forge:not"
+    }
+  ],
+  "cast": {
+    "tag": "tconstruct:casts/multi_use/coin"
+  },
+  "fluid": {
+    "tag": "taiga:triberium_fluid",
+    "amount": 48
+  },
+  "result": {
+    "tag": "forge:coins/triberium"
+  },
+  "cooling_time": 23
+}

@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "tag": "forge:nuggets/vibranium"
+  },
+  "result": {
+    "fluid": "taiga:vibranium_fluid",
+    "amount": 16
+  },
+  "temperature": 2750,
+  "time": 36
+}

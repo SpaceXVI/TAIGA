@@ -1,0 +1,23 @@
+{
+  "type": "tconstruct:casting_table",
+  "conditions": [
+    {
+      "value": {
+        "tag": "forge:wires/palladium",
+        "type": "forge:tag_empty"
+      },
+      "type": "forge:not"
+    }
+  ],
+  "cast": {
+    "tag": "tconstruct:casts/multi_use/wire"
+  },
+  "fluid": {
+    "tag": "taiga:palladium_fluid",
+    "amount": 72
+  },
+  "result": {
+    "tag": "forge:wires/palladium"
+  },
+  "cooling_time": 32
+}

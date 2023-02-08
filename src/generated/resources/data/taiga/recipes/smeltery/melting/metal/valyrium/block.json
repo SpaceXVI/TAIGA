@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "tag": "forge:storage_blocks/valyrium"
+  },
+  "result": {
+    "fluid": "taiga:valyrium_fluid",
+    "amount": 1296
+  },
+  "temperature": 1615,
+  "time": 250
+}

@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:material_melting",
+  "input": "taiga:karmesine",
+  "temperature": 450,
+  "result": {
+    "fluid": "taiga:karmesine_fluid",
+    "amount": 144
+  }
+}

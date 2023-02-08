@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:material_melting",
+  "input": "taiga:ovium",
+  "temperature": 450,
+  "result": {
+    "fluid": "taiga:ovium_fluid",
+    "amount": 144
+  }
+}

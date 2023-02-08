@@ -1,0 +1,21 @@
+{
+  "type": "tconstruct:melting",
+  "conditions": [
+    {
+      "value": {
+        "tag": "forge:coins/lumix",
+        "type": "forge:tag_empty"
+      },
+      "type": "forge:not"
+    }
+  ],
+  "ingredient": {
+    "tag": "forge:coins/lumix"
+  },
+  "result": {
+    "fluid": "taiga:lumix_fluid",
+    "amount": 48
+  },
+  "temperature": 150,
+  "time": 24
+}

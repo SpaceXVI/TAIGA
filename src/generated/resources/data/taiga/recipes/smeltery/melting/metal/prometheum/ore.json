@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:ore_melting",
+  "ingredient": {
+    "tag": "forge:ores/prometheum"
+  },
+  "result": {
+    "fluid": "taiga:prometheum_fluid",
+    "amount": 144
+  },
+  "temperature": 550,
+  "time": 78
+}

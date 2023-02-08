@@ -1,0 +1,12 @@
+{
+  "default": [
+    {
+      "name": "taiga:blind",
+      "level": 1
+    },
+    {
+      "name": "taiga:catcher",
+      "level": 1
+    }
+  ]
+}

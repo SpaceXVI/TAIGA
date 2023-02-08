@@ -1,0 +1,23 @@
+{
+  "type": "tconstruct:casting_table",
+  "conditions": [
+    {
+      "value": {
+        "tag": "forge:coins/adamant",
+        "type": "forge:tag_empty"
+      },
+      "type": "forge:not"
+    }
+  ],
+  "cast": {
+    "tag": "tconstruct:casts/multi_use/coin"
+  },
+  "fluid": {
+    "tag": "taiga:adamant_fluid",
+    "amount": 48
+  },
+  "result": {
+    "tag": "forge:coins/adamant"
+  },
+  "cooling_time": 44
+}

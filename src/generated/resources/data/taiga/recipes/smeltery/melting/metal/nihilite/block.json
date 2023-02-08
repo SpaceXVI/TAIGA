@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "tag": "forge:storage_blocks/nihilite"
+  },
+  "result": {
+    "fluid": "taiga:nihilite_fluid",
+    "amount": 1296
+  },
+  "temperature": 280,
+  "time": 124
+}

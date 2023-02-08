@@ -1,0 +1,23 @@
+{
+  "type": "tconstruct:casting_table",
+  "conditions": [
+    {
+      "value": {
+        "tag": "forge:plates/triberium",
+        "type": "forge:tag_empty"
+      },
+      "type": "forge:not"
+    }
+  ],
+  "cast": {
+    "tag": "tconstruct:casts/multi_use/plate"
+  },
+  "fluid": {
+    "tag": "taiga:triberium_fluid",
+    "amount": 144
+  },
+  "result": {
+    "tag": "forge:plates/triberium"
+  },
+  "cooling_time": 40
+}

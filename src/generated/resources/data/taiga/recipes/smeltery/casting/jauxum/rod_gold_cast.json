@@ -1,0 +1,23 @@
+{
+  "type": "tconstruct:casting_table",
+  "conditions": [
+    {
+      "value": {
+        "tag": "forge:rods/jauxum",
+        "type": "forge:tag_empty"
+      },
+      "type": "forge:not"
+    }
+  ],
+  "cast": {
+    "tag": "tconstruct:casts/multi_use/rod"
+  },
+  "fluid": {
+    "tag": "taiga:jauxum_fluid",
+    "amount": 72
+  },
+  "result": {
+    "tag": "forge:rods/jauxum"
+  },
+  "cooling_time": 34
+}

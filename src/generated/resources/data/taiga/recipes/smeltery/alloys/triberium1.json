@@ -1,0 +1,18 @@
+{
+  "type": "tconstruct:alloy",
+  "inputs": [
+    {
+      "name": "taiga:tiberium_fluid",
+      "amount": 5
+    },
+    {
+      "name": "taiga:dilithium_fluid",
+      "amount": 2
+    }
+  ],
+  "result": {
+    "fluid": "taiga:triberium_fluid",
+    "amount": 1
+  },
+  "temperature": 250
+}

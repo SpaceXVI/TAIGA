@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "tag": "forge:ingots/astrium"
+  },
+  "result": {
+    "fluid": "taiga:astrium_fluid",
+    "amount": 144
+  },
+  "temperature": 380,
+  "time": 45
+}

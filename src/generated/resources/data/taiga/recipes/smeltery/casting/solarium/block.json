@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:casting_basin",
+  "fluid": {
+    "tag": "taiga:solarium_fluid",
+    "amount": 1296
+  },
+  "result": "taiga:solarium_block",
+  "cooling_time": 216
+}

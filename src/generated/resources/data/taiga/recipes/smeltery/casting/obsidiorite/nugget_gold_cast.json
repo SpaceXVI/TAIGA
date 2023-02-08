@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:casting_table",
+  "cast": {
+    "tag": "tconstruct:casts/multi_use/nugget"
+  },
+  "fluid": {
+    "tag": "taiga:obsidiorite_fluid",
+    "amount": 16
+  },
+  "result": "taiga:obsidiorite_nugget",
+  "cooling_time": 20
+}

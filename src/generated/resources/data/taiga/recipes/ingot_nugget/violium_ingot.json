@@ -1,0 +1,38 @@
+{
+  "type": "forge:conditional",
+  "recipes": [
+    {
+      "conditions": [
+        {
+          "values": [
+            {
+              "item": "taiga:violium_ingot",
+              "type": "forge:item_exists"
+            },
+            {
+              "item": "taiga:violium_nugget",
+              "type": "forge:item_exists"
+            }
+          ],
+          "type": "forge:and"
+        }
+      ],
+      "recipe": {
+        "type": "minecraft:crafting_shaped",
+        "pattern": [
+          "###",
+          "###",
+          "###"
+        ],
+        "key": {
+          "#": {
+            "item": "taiga:violium_nugget"
+          }
+        },
+        "result": {
+          "item": "taiga:violium_ingot"
+        }
+      }
+    }
+  ]
+}

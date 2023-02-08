@@ -1,0 +1,24 @@
+{
+  "type": "tconstruct:casting_table",
+  "conditions": [
+    {
+      "value": {
+        "tag": "forge:coins/ovium",
+        "type": "forge:tag_empty"
+      },
+      "type": "forge:not"
+    }
+  ],
+  "cast": {
+    "tag": "tconstruct:casts/single_use/coin"
+  },
+  "cast_consumed": true,
+  "fluid": {
+    "tag": "taiga:ovium_fluid",
+    "amount": 48
+  },
+  "result": {
+    "tag": "forge:coins/ovium"
+  },
+  "cooling_time": 28
+}

@@ -1,0 +1,21 @@
+{
+  "type": "tconstruct:melting",
+  "conditions": [
+    {
+      "value": {
+        "tag": "forge:coins/karmesine",
+        "type": "forge:tag_empty"
+      },
+      "type": "forge:not"
+    }
+  ],
+  "ingredient": {
+    "tag": "forge:coins/karmesine"
+  },
+  "result": {
+    "fluid": "taiga:karmesine_fluid",
+    "amount": 48
+  },
+  "temperature": 450,
+  "time": 32
+}

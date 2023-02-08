@@ -1,0 +1,23 @@
+{
+  "type": "tconstruct:casting_table",
+  "conditions": [
+    {
+      "value": {
+        "tag": "forge:plates/solarium",
+        "type": "forge:tag_empty"
+      },
+      "type": "forge:not"
+    }
+  ],
+  "cast": {
+    "tag": "tconstruct:casts/multi_use/plate"
+  },
+  "fluid": {
+    "tag": "taiga:solarium_fluid",
+    "amount": 144
+  },
+  "result": {
+    "tag": "forge:plates/solarium"
+  },
+  "cooling_time": 72
+}

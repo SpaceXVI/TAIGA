@@ -1,0 +1,21 @@
+{
+  "type": "tconstruct:melting",
+  "conditions": [
+    {
+      "value": {
+        "tag": "forge:plates/meteorite",
+        "type": "forge:tag_empty"
+      },
+      "type": "forge:not"
+    }
+  ],
+  "ingredient": {
+    "tag": "forge:plates/meteorite"
+  },
+  "result": {
+    "fluid": "taiga:meteorite_fluid",
+    "amount": 144
+  },
+  "temperature": 650,
+  "time": 55
+}

@@ -1,0 +1,23 @@
+{
+  "type": "tconstruct:casting_table",
+  "conditions": [
+    {
+      "value": {
+        "tag": "forge:gears/dilithium",
+        "type": "forge:tag_empty"
+      },
+      "type": "forge:not"
+    }
+  ],
+  "cast": {
+    "tag": "tconstruct:casts/multi_use/gear"
+  },
+  "fluid": {
+    "tag": "taiga:dilithium_fluid",
+    "amount": 576
+  },
+  "result": {
+    "tag": "forge:gears/dilithium"
+  },
+  "cooling_time": 144
+}

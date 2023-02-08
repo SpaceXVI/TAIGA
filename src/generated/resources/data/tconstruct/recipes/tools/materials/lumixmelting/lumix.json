@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:material_melting",
+  "input": "taiga:lumix",
+  "temperature": 150,
+  "result": {
+    "fluid": "taiga:lumix_fluid",
+    "amount": 144
+  }
+}

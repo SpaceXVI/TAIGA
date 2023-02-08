@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "taiga:block/abyssum_fluid_block"
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:casting_basin",
+  "fluid": {
+    "tag": "taiga:violium_fluid",
+    "amount": 1296
+  },
+  "result": "taiga:violium_block",
+  "cooling_time": 155
+}

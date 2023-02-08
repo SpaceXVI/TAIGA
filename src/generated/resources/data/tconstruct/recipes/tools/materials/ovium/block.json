@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:material",
+  "ingredient": {
+    "tag": "forge:storage_blocks/ovium"
+  },
+  "value": 9,
+  "needed": 1,
+  "material": "taiga:ovium",
+  "leftover": {
+    "tag": "forge:ingots/ovium"
+  }
+}

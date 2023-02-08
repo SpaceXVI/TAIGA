@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:material",
+  "ingredient": {
+    "tag": "forge:storage_blocks/dyonite"
+  },
+  "value": 9,
+  "needed": 1,
+  "material": "taiga:dyonite",
+  "leftover": {
+    "tag": "forge:ingots/dyonite"
+  }
+}

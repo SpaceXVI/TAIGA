@@ -1,0 +1,21 @@
+{
+  "type": "tconstruct:melting",
+  "conditions": [
+    {
+      "value": {
+        "tag": "forge:coins/fractum",
+        "type": "forge:tag_empty"
+      },
+      "type": "forge:not"
+    }
+  ],
+  "ingredient": {
+    "tag": "forge:coins/fractum"
+  },
+  "result": {
+    "fluid": "taiga:fractum_fluid",
+    "amount": 48
+  },
+  "temperature": 450,
+  "time": 32
+}

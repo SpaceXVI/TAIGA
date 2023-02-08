@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:casting_basin",
+  "fluid": {
+    "tag": "taiga:ovium_fluid",
+    "amount": 1296
+  },
+  "result": "taiga:ovium_block",
+  "cooling_time": 144
+}

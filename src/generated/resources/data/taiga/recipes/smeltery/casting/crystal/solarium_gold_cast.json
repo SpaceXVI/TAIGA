@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:casting_table",
+  "cast": {
+    "item": "tconstruct:gem_cast"
+  },
+  "fluid": {
+    "name": "taiga:solarium_fluid",
+    "amount": 72
+  },
+  "result": "minecraft:air",
+  "cooling_time": 51
+}

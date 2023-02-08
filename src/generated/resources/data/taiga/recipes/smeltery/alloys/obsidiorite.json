@@ -1,0 +1,18 @@
+{
+  "type": "tconstruct:alloy",
+  "inputs": [
+    {
+      "name": "taiga:meteorite_fluid",
+      "amount": 1
+    },
+    {
+      "name": "tconstruct:molten_obsidian",
+      "amount": 1
+    }
+  ],
+  "result": {
+    "fluid": "taiga:obsidiorite_fluid",
+    "amount": 1
+  },
+  "temperature": 750
+}

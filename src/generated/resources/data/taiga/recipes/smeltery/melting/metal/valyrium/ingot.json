@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "tag": "forge:ingots/valyrium"
+  },
+  "result": {
+    "fluid": "taiga:valyrium_fluid",
+    "amount": 144
+  },
+  "temperature": 1615,
+  "time": 83
+}

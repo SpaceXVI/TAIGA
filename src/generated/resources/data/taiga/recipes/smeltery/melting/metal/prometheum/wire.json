@@ -1,0 +1,21 @@
+{
+  "type": "tconstruct:melting",
+  "conditions": [
+    {
+      "value": {
+        "tag": "forge:wires/prometheum",
+        "type": "forge:tag_empty"
+      },
+      "type": "forge:not"
+    }
+  ],
+  "ingredient": {
+    "tag": "forge:wires/prometheum"
+  },
+  "result": {
+    "fluid": "taiga:prometheum_fluid",
+    "amount": 72
+  },
+  "temperature": 550,
+  "time": 10
+}

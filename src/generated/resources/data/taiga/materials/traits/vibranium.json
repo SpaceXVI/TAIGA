@@ -1,0 +1,12 @@
+{
+  "default": [
+    {
+      "name": "taiga:resonance",
+      "level": 1
+    },
+    {
+      "name": "taiga:heroic",
+      "level": 1
+    }
+  ]
+}

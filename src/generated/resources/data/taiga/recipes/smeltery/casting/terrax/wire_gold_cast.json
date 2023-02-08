@@ -1,0 +1,23 @@
+{
+  "type": "tconstruct:casting_table",
+  "conditions": [
+    {
+      "value": {
+        "tag": "forge:wires/terrax",
+        "type": "forge:tag_empty"
+      },
+      "type": "forge:not"
+    }
+  ],
+  "cast": {
+    "tag": "tconstruct:casts/multi_use/wire"
+  },
+  "fluid": {
+    "tag": "taiga:terrax_fluid",
+    "amount": 72
+  },
+  "result": {
+    "tag": "forge:wires/terrax"
+  },
+  "cooling_time": 37
+}

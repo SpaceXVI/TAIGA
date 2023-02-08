@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:ore_melting",
+  "ingredient": {
+    "tag": "forge:ores/jauxum"
+  },
+  "result": {
+    "fluid": "taiga:jauxum_fluid",
+    "amount": 144
+  },
+  "temperature": 450,
+  "time": 72
+}

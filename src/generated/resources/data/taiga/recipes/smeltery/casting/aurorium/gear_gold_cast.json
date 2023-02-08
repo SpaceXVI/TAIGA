@@ -1,0 +1,23 @@
+{
+  "type": "tconstruct:casting_table",
+  "conditions": [
+    {
+      "value": {
+        "tag": "forge:gears/aurorium",
+        "type": "forge:tag_empty"
+      },
+      "type": "forge:not"
+    }
+  ],
+  "cast": {
+    "tag": "tconstruct:casts/multi_use/gear"
+  },
+  "fluid": {
+    "tag": "taiga:aurorium_fluid",
+    "amount": 576
+  },
+  "result": {
+    "tag": "forge:gears/aurorium"
+  },
+  "cooling_time": 96
+}

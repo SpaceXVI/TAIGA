@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:material_fluid",
+  "fluid": {
+    "tag": "taiga:nitronite_fluid",
+    "amount": 144
+  },
+  "temperature": 2800,
+  "output": "taiga:nitronite"
+}

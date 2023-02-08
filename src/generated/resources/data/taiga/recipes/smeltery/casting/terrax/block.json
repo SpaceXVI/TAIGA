@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:casting_basin",
+  "fluid": {
+    "tag": "taiga:terrax_fluid",
+    "amount": 1296
+  },
+  "result": "taiga:terrax_block",
+  "cooling_time": 155
+}

@@ -1,0 +1,21 @@
+{
+  "type": "tconstruct:melting",
+  "conditions": [
+    {
+      "value": {
+        "tag": "forge:rods/jauxum",
+        "type": "forge:tag_empty"
+      },
+      "type": "forge:not"
+    }
+  ],
+  "ingredient": {
+    "tag": "forge:rods/jauxum"
+  },
+  "result": {
+    "fluid": "taiga:jauxum_fluid",
+    "amount": 72
+  },
+  "temperature": 450,
+  "time": 10
+}

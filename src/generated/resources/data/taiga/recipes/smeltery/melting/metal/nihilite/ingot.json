@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "tag": "forge:ingots/nihilite"
+  },
+  "result": {
+    "fluid": "taiga:nihilite_fluid",
+    "amount": 144
+  },
+  "temperature": 280,
+  "time": 41
+}

@@ -1,0 +1,24 @@
+{
+  "type": "tconstruct:casting_table",
+  "conditions": [
+    {
+      "value": {
+        "tag": "forge:gears/violium",
+        "type": "forge:tag_empty"
+      },
+      "type": "forge:not"
+    }
+  ],
+  "cast": {
+    "tag": "tconstruct:casts/single_use/gear"
+  },
+  "cast_consumed": true,
+  "fluid": {
+    "tag": "taiga:violium_fluid",
+    "amount": 576
+  },
+  "result": {
+    "tag": "forge:gears/violium"
+  },
+  "cooling_time": 103
+}

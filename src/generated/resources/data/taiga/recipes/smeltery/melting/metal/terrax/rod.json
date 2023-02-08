@@ -1,0 +1,21 @@
+{
+  "type": "tconstruct:melting",
+  "conditions": [
+    {
+      "value": {
+        "tag": "forge:rods/terrax",
+        "type": "forge:tag_empty"
+      },
+      "type": "forge:not"
+    }
+  ],
+  "ingredient": {
+    "tag": "forge:rods/terrax"
+  },
+  "result": {
+    "fluid": "taiga:terrax_fluid",
+    "amount": 72
+  },
+  "temperature": 550,
+  "time": 10
+}

@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "tag": "forge:ingots/ovium"
+  },
+  "result": {
+    "fluid": "taiga:ovium_fluid",
+    "amount": 144
+  },
+  "temperature": 450,
+  "time": 48
+}

@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "tag": "forge:nuggets/proxii"
+  },
+  "result": {
+    "fluid": "taiga:proxii_fluid",
+    "amount": 16
+  },
+  "temperature": 450,
+  "time": 16
+}

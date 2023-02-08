@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:material_melting",
+  "input": "taiga:prometheum",
+  "temperature": 550,
+  "result": {
+    "fluid": "taiga:prometheum_fluid",
+    "amount": 144
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:casting_basin",
+  "fluid": {
+    "tag": "taiga:triberium_fluid",
+    "amount": 1296
+  },
+  "result": "taiga:triberium_block",
+  "cooling_time": 120
+}

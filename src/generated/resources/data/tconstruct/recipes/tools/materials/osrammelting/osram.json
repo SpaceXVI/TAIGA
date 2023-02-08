@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:material_melting",
+  "input": "taiga:osram",
+  "temperature": 500,
+  "result": {
+    "fluid": "taiga:osram_fluid",
+    "amount": 144
+  }
+}

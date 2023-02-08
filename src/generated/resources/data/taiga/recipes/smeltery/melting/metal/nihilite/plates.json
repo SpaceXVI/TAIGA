@@ -1,0 +1,21 @@
+{
+  "type": "tconstruct:melting",
+  "conditions": [
+    {
+      "value": {
+        "tag": "forge:plates/nihilite",
+        "type": "forge:tag_empty"
+      },
+      "type": "forge:not"
+    }
+  ],
+  "ingredient": {
+    "tag": "forge:plates/nihilite"
+  },
+  "result": {
+    "fluid": "taiga:nihilite_fluid",
+    "amount": 144
+  },
+  "temperature": 280,
+  "time": 41
+}

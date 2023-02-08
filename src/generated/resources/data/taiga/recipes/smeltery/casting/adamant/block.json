@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:casting_basin",
+  "fluid": {
+    "tag": "taiga:adamant_fluid",
+    "amount": 1296
+  },
+  "result": "taiga:adamant_block",
+  "cooling_time": 229
+}

@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "tag": "forge:ingots/nucleum"
+  },
+  "result": {
+    "fluid": "taiga:nucleum_fluid",
+    "amount": 144
+  },
+  "temperature": 190,
+  "time": 37
+}

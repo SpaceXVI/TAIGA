@@ -1,0 +1,24 @@
+{
+  "type": "tconstruct:casting_table",
+  "conditions": [
+    {
+      "value": {
+        "tag": "forge:plates/nihilite",
+        "type": "forge:tag_empty"
+      },
+      "type": "forge:not"
+    }
+  ],
+  "cast": {
+    "tag": "tconstruct:casts/single_use/plate"
+  },
+  "cast_consumed": true,
+  "fluid": {
+    "tag": "taiga:nihilite_fluid",
+    "amount": 144
+  },
+  "result": {
+    "tag": "forge:plates/nihilite"
+  },
+  "cooling_time": 41
+}

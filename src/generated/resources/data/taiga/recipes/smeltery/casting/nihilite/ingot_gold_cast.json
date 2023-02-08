@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:casting_table",
+  "cast": {
+    "tag": "tconstruct:casts/multi_use/ingot"
+  },
+  "fluid": {
+    "tag": "taiga:nihilite_fluid",
+    "amount": 144
+  },
+  "result": "taiga:nihilite_ingot",
+  "cooling_time": 41
+}

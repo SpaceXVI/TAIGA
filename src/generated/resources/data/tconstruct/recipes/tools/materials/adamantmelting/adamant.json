@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:material_melting",
+  "input": "taiga:adamant",
+  "temperature": 1350,
+  "result": {
+    "fluid": "taiga:adamant_fluid",
+    "amount": 144
+  }
+}

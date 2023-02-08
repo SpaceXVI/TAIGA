@@ -1,0 +1,34 @@
+{
+  "type": "forge:conditional",
+  "recipes": [
+    {
+      "conditions": [
+        {
+          "values": [
+            {
+              "item": "taiga:adamant_block",
+              "type": "forge:item_exists"
+            },
+            {
+              "item": "taiga:adamant_ingot",
+              "type": "forge:item_exists"
+            }
+          ],
+          "type": "forge:and"
+        }
+      ],
+      "recipe": {
+        "type": "minecraft:crafting_shapeless",
+        "ingredients": [
+          {
+            "item": "taiga:adamant_block"
+          }
+        ],
+        "result": {
+          "item": "taiga:adamant_ingot",
+          "count": 9
+        }
+      }
+    }
+  ]
+}

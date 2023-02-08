@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:material_melting",
+  "input": "taiga:fractum",
+  "temperature": 450,
+  "result": {
+    "fluid": "taiga:fractum_fluid",
+    "amount": 144
+  }
+}

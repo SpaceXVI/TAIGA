@@ -1,0 +1,21 @@
+{
+  "type": "tconstruct:melting",
+  "conditions": [
+    {
+      "value": {
+        "tag": "forge:plates/yrdeen",
+        "type": "forge:tag_empty"
+      },
+      "type": "forge:not"
+    }
+  ],
+  "ingredient": {
+    "tag": "forge:plates/yrdeen"
+  },
+  "result": {
+    "fluid": "taiga:yrdeen_fluid",
+    "amount": 144
+  },
+  "temperature": 410,
+  "time": 47
+}

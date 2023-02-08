@@ -1,0 +1,21 @@
+{
+  "type": "tconstruct:melting",
+  "conditions": [
+    {
+      "value": {
+        "tag": "forge:sheetmetals/valyrium",
+        "type": "forge:tag_empty"
+      },
+      "type": "forge:not"
+    }
+  ],
+  "ingredient": {
+    "tag": "forge:sheetmetals/valyrium"
+  },
+  "result": {
+    "fluid": "taiga:valyrium_fluid",
+    "amount": 144
+  },
+  "temperature": 1615,
+  "time": 83
+}

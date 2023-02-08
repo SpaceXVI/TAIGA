@@ -1,0 +1,21 @@
+{
+  "type": "tconstruct:melting",
+  "conditions": [
+    {
+      "value": {
+        "tag": "forge:coins/duranite",
+        "type": "forge:tag_empty"
+      },
+      "type": "forge:not"
+    }
+  ],
+  "ingredient": {
+    "tag": "forge:coins/duranite"
+  },
+  "result": {
+    "fluid": "taiga:duranite_fluid",
+    "amount": 48
+  },
+  "temperature": 1100,
+  "time": 46
+}

@@ -1,0 +1,23 @@
+{
+  "type": "tconstruct:casting_table",
+  "conditions": [
+    {
+      "value": {
+        "tag": "forge:rods/dyonite",
+        "type": "forge:tag_empty"
+      },
+      "type": "forge:not"
+    }
+  ],
+  "cast": {
+    "tag": "tconstruct:casts/multi_use/rod"
+  },
+  "fluid": {
+    "tag": "taiga:dyonite_fluid",
+    "amount": 72
+  },
+  "result": {
+    "tag": "forge:rods/dyonite"
+  },
+  "cooling_time": 32
+}

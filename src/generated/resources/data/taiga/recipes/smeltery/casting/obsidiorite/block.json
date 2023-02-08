@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:casting_basin",
+  "fluid": {
+    "tag": "taiga:obsidiorite_fluid",
+    "amount": 1296
+  },
+  "result": "taiga:obsidiorite_block",
+  "cooling_time": 176
+}

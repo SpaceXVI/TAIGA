@@ -1,0 +1,34 @@
+{
+  "type": "forge:conditional",
+  "recipes": [
+    {
+      "conditions": [
+        {
+          "values": [
+            {
+              "item": "taiga:iox_block",
+              "type": "forge:item_exists"
+            },
+            {
+              "item": "taiga:iox_ingot",
+              "type": "forge:item_exists"
+            }
+          ],
+          "type": "forge:and"
+        }
+      ],
+      "recipe": {
+        "type": "minecraft:crafting_shapeless",
+        "ingredients": [
+          {
+            "item": "taiga:iox_block"
+          }
+        ],
+        "result": {
+          "item": "taiga:iox_ingot",
+          "count": 9
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "type": "tconstruct:melting",
+  "conditions": [
+    {
+      "value": {
+        "tag": "forge:sheetmetals/violium",
+        "type": "forge:tag_empty"
+      },
+      "type": "forge:not"
+    }
+  ],
+  "ingredient": {
+    "tag": "forge:sheetmetals/violium"
+  },
+  "result": {
+    "fluid": "taiga:violium_fluid",
+    "amount": 144
+  },
+  "temperature": 550,
+  "time": 52
+}

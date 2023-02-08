@@ -1,0 +1,21 @@
+{
+  "type": "tconstruct:melting",
+  "conditions": [
+    {
+      "value": {
+        "tag": "forge:rods/iox",
+        "type": "forge:tag_empty"
+      },
+      "type": "forge:not"
+    }
+  ],
+  "ingredient": {
+    "tag": "forge:rods/iox"
+  },
+  "result": {
+    "fluid": "taiga:iox_fluid",
+    "amount": 72
+  },
+  "temperature": 600,
+  "time": 11
+}

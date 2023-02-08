@@ -1,0 +1,21 @@
+{
+  "type": "tconstruct:melting",
+  "conditions": [
+    {
+      "value": {
+        "tag": "forge:plates/tritonite",
+        "type": "forge:tag_empty"
+      },
+      "type": "forge:not"
+    }
+  ],
+  "ingredient": {
+    "tag": "forge:plates/tritonite"
+  },
+  "result": {
+    "fluid": "taiga:tritonite_fluid",
+    "amount": 144
+  },
+  "temperature": 250,
+  "time": 40
+}

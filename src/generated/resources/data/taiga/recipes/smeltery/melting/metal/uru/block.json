@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "tag": "forge:storage_blocks/uru"
+  },
+  "result": {
+    "fluid": "taiga:uru_fluid",
+    "amount": 1296
+  },
+  "temperature": 900,
+  "time": 190
+}

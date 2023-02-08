@@ -1,0 +1,21 @@
+{
+  "type": "tconstruct:melting",
+  "conditions": [
+    {
+      "value": {
+        "tag": "forge:coins/abyssum",
+        "type": "forge:tag_empty"
+      },
+      "type": "forge:not"
+    }
+  ],
+  "ingredient": {
+    "tag": "forge:coins/abyssum"
+  },
+  "result": {
+    "fluid": "taiga:abyssum_fluid",
+    "amount": 48
+  },
+  "temperature": 400,
+  "time": 31
+}

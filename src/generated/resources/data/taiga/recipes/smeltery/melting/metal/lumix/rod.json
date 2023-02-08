@@ -1,0 +1,21 @@
+{
+  "type": "tconstruct:melting",
+  "conditions": [
+    {
+      "value": {
+        "tag": "forge:rods/lumix",
+        "type": "forge:tag_empty"
+      },
+      "type": "forge:not"
+    }
+  ],
+  "ingredient": {
+    "tag": "forge:rods/lumix"
+  },
+  "result": {
+    "fluid": "taiga:lumix_fluid",
+    "amount": 72
+  },
+  "temperature": 150,
+  "time": 7
+}

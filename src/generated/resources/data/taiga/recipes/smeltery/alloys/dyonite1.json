@@ -1,0 +1,26 @@
+{
+  "type": "tconstruct:alloy",
+  "inputs": [
+    {
+      "name": "taiga:tiberium_fluid",
+      "amount": 12
+    },
+    {
+      "name": "taiga:fractum_fluid",
+      "amount": 1
+    },
+    {
+      "name": "taiga:seismum_fluid",
+      "amount": 1
+    },
+    {
+      "name": "taiga:osram_fluid",
+      "amount": 1
+    }
+  ],
+  "result": {
+    "fluid": "taiga:dyonite_fluid",
+    "amount": 3
+  },
+  "temperature": 360
+}

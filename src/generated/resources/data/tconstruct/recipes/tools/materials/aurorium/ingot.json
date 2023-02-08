@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:material",
+  "ingredient": {
+    "tag": "forge:ingots/aurorium"
+  },
+  "value": 1,
+  "needed": 1,
+  "material": "taiga:aurorium"
+}

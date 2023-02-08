@@ -1,0 +1,21 @@
+{
+  "type": "tconstruct:melting",
+  "conditions": [
+    {
+      "value": {
+        "tag": "forge:gears/nihilite",
+        "type": "forge:tag_empty"
+      },
+      "type": "forge:not"
+    }
+  ],
+  "ingredient": {
+    "tag": "forge:gears/nihilite"
+  },
+  "result": {
+    "fluid": "taiga:nihilite_fluid",
+    "amount": 576
+  },
+  "temperature": 280,
+  "time": 83
+}

@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:casting_basin",
+  "fluid": {
+    "tag": "taiga:iox_fluid",
+    "amount": 1296
+  },
+  "result": "taiga:iox_block",
+  "cooling_time": 160
+}

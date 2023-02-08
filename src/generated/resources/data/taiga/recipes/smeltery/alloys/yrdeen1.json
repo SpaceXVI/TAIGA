@@ -1,0 +1,22 @@
+{
+  "type": "tconstruct:alloy",
+  "inputs": [
+    {
+      "name": "taiga:uru_fluid",
+      "amount": 3
+    },
+    {
+      "name": "taiga:valyrium_fluid",
+      "amount": 3
+    },
+    {
+      "name": "taiga:eezo_fluid",
+      "amount": 1
+    }
+  ],
+  "result": {
+    "fluid": "taiga:yrdeen_fluid",
+    "amount": 3
+  },
+  "temperature": 410
+}

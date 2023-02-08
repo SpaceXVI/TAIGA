@@ -1,0 +1,23 @@
+{
+  "type": "tconstruct:casting_table",
+  "conditions": [
+    {
+      "value": {
+        "tag": "forge:rods/eezo",
+        "type": "forge:tag_empty"
+      },
+      "type": "forge:not"
+    }
+  ],
+  "cast": {
+    "tag": "tconstruct:casts/multi_use/rod"
+  },
+  "fluid": {
+    "tag": "taiga:eezo_fluid",
+    "amount": 72
+  },
+  "result": {
+    "tag": "forge:rods/eezo"
+  },
+  "cooling_time": 25
+}

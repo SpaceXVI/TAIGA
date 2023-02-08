@@ -1,0 +1,13 @@
+{
+  "type": "tconstruct:casting_table",
+  "cast": {
+    "tag": "tconstruct:casts/single_use/nugget"
+  },
+  "cast_consumed": true,
+  "fluid": {
+    "tag": "taiga:jauxum_fluid",
+    "amount": 16
+  },
+  "result": "taiga:jauxum_nugget",
+  "cooling_time": 16
+}

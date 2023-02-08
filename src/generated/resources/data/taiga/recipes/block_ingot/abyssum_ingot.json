@@ -1,0 +1,34 @@
+{
+  "type": "forge:conditional",
+  "recipes": [
+    {
+      "conditions": [
+        {
+          "values": [
+            {
+              "item": "taiga:abyssum_block",
+              "type": "forge:item_exists"
+            },
+            {
+              "item": "taiga:abyssum_ingot",
+              "type": "forge:item_exists"
+            }
+          ],
+          "type": "forge:and"
+        }
+      ],
+      "recipe": {
+        "type": "minecraft:crafting_shapeless",
+        "ingredients": [
+          {
+            "item": "taiga:abyssum_block"
+          }
+        ],
+        "result": {
+          "item": "taiga:abyssum_ingot",
+          "count": 9
+        }
+      }
+    }
+  ]
+}

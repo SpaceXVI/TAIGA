@@ -1,0 +1,21 @@
+{
+  "type": "tconstruct:melting",
+  "conditions": [
+    {
+      "value": {
+        "tag": "forge:dusts/triberium",
+        "type": "forge:tag_empty"
+      },
+      "type": "forge:not"
+    }
+  ],
+  "ingredient": {
+    "tag": "forge:dusts/triberium"
+  },
+  "result": {
+    "fluid": "taiga:triberium_fluid",
+    "amount": 144
+  },
+  "temperature": 250,
+  "time": 30
+}

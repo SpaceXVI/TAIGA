@@ -1,0 +1,18 @@
+{
+  "type": "tconstruct:alloy",
+  "inputs": [
+    {
+      "name": "taiga:aurorium_fluid",
+      "amount": 3
+    },
+    {
+      "name": "tconstruct:molten_debris",
+      "amount": 2
+    }
+  ],
+  "result": {
+    "fluid": "taiga:violium_fluid",
+    "amount": 2
+  },
+  "temperature": 550
+}

@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:material",
+  "ingredient": {
+    "tag": "forge:storage_blocks/palladium"
+  },
+  "value": 9,
+  "needed": 1,
+  "material": "taiga:palladium",
+  "leftover": {
+    "tag": "forge:ingots/palladium"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "tag": "forge:storage_blocks/duranite"
+  },
+  "result": {
+    "fluid": "taiga:duranite_fluid",
+    "amount": 1296
+  },
+  "temperature": 1100,
+  "time": 208
+}

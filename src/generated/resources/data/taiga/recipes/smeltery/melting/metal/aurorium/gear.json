@@ -1,0 +1,21 @@
+{
+  "type": "tconstruct:melting",
+  "conditions": [
+    {
+      "value": {
+        "tag": "forge:gears/aurorium",
+        "type": "forge:tag_empty"
+      },
+      "type": "forge:not"
+    }
+  ],
+  "ingredient": {
+    "tag": "forge:gears/aurorium"
+  },
+  "result": {
+    "fluid": "taiga:aurorium_fluid",
+    "amount": 576
+  },
+  "temperature": 450,
+  "time": 96
+}

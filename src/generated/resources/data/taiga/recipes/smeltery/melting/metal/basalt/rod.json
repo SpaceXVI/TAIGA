@@ -1,0 +1,21 @@
+{
+  "type": "tconstruct:melting",
+  "conditions": [
+    {
+      "value": {
+        "tag": "forge:rods/basalt",
+        "type": "forge:tag_empty"
+      },
+      "type": "forge:not"
+    }
+  ],
+  "ingredient": {
+    "tag": "forge:rods/basalt"
+  },
+  "result": {
+    "fluid": "taiga:basalt_fluid",
+    "amount": 72
+  },
+  "temperature": 250,
+  "time": 8
+}

@@ -1,0 +1,21 @@
+{
+  "type": "tconstruct:melting",
+  "conditions": [
+    {
+      "value": {
+        "tag": "forge:plates/proxii",
+        "type": "forge:tag_empty"
+      },
+      "type": "forge:not"
+    }
+  ],
+  "ingredient": {
+    "tag": "forge:plates/proxii"
+  },
+  "result": {
+    "fluid": "taiga:proxii_fluid",
+    "amount": 144
+  },
+  "temperature": 450,
+  "time": 48
+}

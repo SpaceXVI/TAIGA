@@ -1,0 +1,22 @@
+{
+  "type": "tconstruct:alloy",
+  "inputs": [
+    {
+      "name": "taiga:prometheum_fluid",
+      "amount": 3
+    },
+    {
+      "name": "taiga:palladium_fluid",
+      "amount": 3
+    },
+    {
+      "name": "taiga:eezo_fluid",
+      "amount": 1
+    }
+  ],
+  "result": {
+    "fluid": "taiga:proxii_fluid",
+    "amount": 3
+  },
+  "temperature": 450
+}

@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:material",
+  "ingredient": {
+    "tag": "forge:storage_blocks/jauxum"
+  },
+  "value": 9,
+  "needed": 1,
+  "material": "taiga:jauxum",
+  "leftover": {
+    "tag": "forge:ingots/jauxum"
+  }
+}

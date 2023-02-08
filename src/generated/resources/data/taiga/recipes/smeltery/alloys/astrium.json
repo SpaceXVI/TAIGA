@@ -1,0 +1,18 @@
+{
+  "type": "tconstruct:alloy",
+  "inputs": [
+    {
+      "name": "taiga:terrax_fluid",
+      "amount": 3
+    },
+    {
+      "name": "taiga:aurorium_fluid",
+      "amount": 2
+    }
+  ],
+  "result": {
+    "fluid": "taiga:astrium_fluid",
+    "amount": 2
+  },
+  "temperature": 380
+}

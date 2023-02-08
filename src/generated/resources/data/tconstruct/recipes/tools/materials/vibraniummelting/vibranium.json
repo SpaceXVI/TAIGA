@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:material_melting",
+  "input": "taiga:vibranium",
+  "temperature": 2750,
+  "result": {
+    "fluid": "taiga:vibranium_fluid",
+    "amount": 144
+  }
+}

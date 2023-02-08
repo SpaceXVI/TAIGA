@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:material",
+  "ingredient": {
+    "tag": "forge:storage_blocks/prometheum"
+  },
+  "value": 9,
+  "needed": 1,
+  "material": "taiga:prometheum",
+  "leftover": {
+    "tag": "forge:ingots/prometheum"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "default": [
+    {
+      "name": "taiga:melting",
+      "level": 1
+    },
+    {
+      "name": "taiga:garishly",
+      "level": 1
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "type": "tconstruct:alloy",
+  "inputs": [
+    {
+      "name": "taiga:tiberium_fluid",
+      "amount": 5
+    },
+    {
+      "name": "taiga:basalt_fluid",
+      "amount": 1
+    }
+  ],
+  "result": {
+    "fluid": "taiga:triberium_fluid",
+    "amount": 1
+  },
+  "temperature": 250
+}

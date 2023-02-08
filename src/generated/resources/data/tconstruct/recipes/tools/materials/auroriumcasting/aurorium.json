@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:material_fluid",
+  "fluid": {
+    "tag": "taiga:aurorium_fluid",
+    "amount": 144
+  },
+  "temperature": 450,
+  "output": "taiga:aurorium"
+}

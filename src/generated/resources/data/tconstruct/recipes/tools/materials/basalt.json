@@ -1,0 +1,14 @@
+{
+  "type": "tconstruct:material",
+  "ingredient": [
+    {
+      "item": "taiga:basalt_dust"
+    },
+    {
+      "item": "taiga:basalt_ingot"
+    }
+  ],
+  "value": 1,
+  "needed": 1,
+  "material": "taiga:basalt"
+}

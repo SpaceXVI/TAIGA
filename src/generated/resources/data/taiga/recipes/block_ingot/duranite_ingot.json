@@ -1,0 +1,34 @@
+{
+  "type": "forge:conditional",
+  "recipes": [
+    {
+      "conditions": [
+        {
+          "values": [
+            {
+              "item": "taiga:duranite_block",
+              "type": "forge:item_exists"
+            },
+            {
+              "item": "taiga:duranite_ingot",
+              "type": "forge:item_exists"
+            }
+          ],
+          "type": "forge:and"
+        }
+      ],
+      "recipe": {
+        "type": "minecraft:crafting_shapeless",
+        "ingredients": [
+          {
+            "item": "taiga:duranite_block"
+          }
+        ],
+        "result": {
+          "item": "taiga:duranite_ingot",
+          "count": 9
+        }
+      }
+    }
+  ]
+}

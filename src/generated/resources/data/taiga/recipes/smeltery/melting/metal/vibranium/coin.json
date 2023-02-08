@@ -1,0 +1,21 @@
+{
+  "type": "tconstruct:melting",
+  "conditions": [
+    {
+      "value": {
+        "tag": "forge:coins/vibranium",
+        "type": "forge:tag_empty"
+      },
+      "type": "forge:not"
+    }
+  ],
+  "ingredient": {
+    "tag": "forge:coins/vibranium"
+  },
+  "result": {
+    "fluid": "taiga:vibranium_fluid",
+    "amount": 48
+  },
+  "temperature": 2750,
+  "time": 73
+}

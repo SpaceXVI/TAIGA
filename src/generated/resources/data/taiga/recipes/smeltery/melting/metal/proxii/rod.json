@@ -1,0 +1,21 @@
+{
+  "type": "tconstruct:melting",
+  "conditions": [
+    {
+      "value": {
+        "tag": "forge:rods/proxii",
+        "type": "forge:tag_empty"
+      },
+      "type": "forge:not"
+    }
+  ],
+  "ingredient": {
+    "tag": "forge:rods/proxii"
+  },
+  "result": {
+    "fluid": "taiga:proxii_fluid",
+    "amount": 72
+  },
+  "temperature": 450,
+  "time": 10
+}

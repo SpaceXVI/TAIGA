@@ -1,0 +1,22 @@
+{
+  "type": "tconstruct:alloy",
+  "inputs": [
+    {
+      "name": "tconstruct:molten_debris",
+      "amount": 2
+    },
+    {
+      "name": "taiga:terrax_fluid",
+      "amount": 2
+    },
+    {
+      "name": "taiga:osram_fluid",
+      "amount": 1
+    }
+  ],
+  "result": {
+    "fluid": "taiga:ignitz_fluid",
+    "amount": 2
+  },
+  "temperature": 650
+}

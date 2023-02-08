@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "tag": "forge:ingots/duranite"
+  },
+  "result": {
+    "fluid": "taiga:duranite_fluid",
+    "amount": 144
+  },
+  "temperature": 1100,
+  "time": 69
+}

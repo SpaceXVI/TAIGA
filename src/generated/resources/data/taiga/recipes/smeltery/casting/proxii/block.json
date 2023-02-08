@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:casting_basin",
+  "fluid": {
+    "tag": "taiga:proxii_fluid",
+    "amount": 1296
+  },
+  "result": "taiga:proxii_block",
+  "cooling_time": 144
+}

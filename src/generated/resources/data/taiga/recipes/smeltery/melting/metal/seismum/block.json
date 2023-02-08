@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "tag": "forge:storage_blocks/seismum"
+  },
+  "result": {
+    "fluid": "taiga:seismum_fluid",
+    "amount": 1296
+  },
+  "temperature": 420,
+  "time": 141
+}

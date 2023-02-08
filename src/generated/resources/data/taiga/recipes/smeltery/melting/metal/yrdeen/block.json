@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "tag": "forge:storage_blocks/yrdeen"
+  },
+  "result": {
+    "fluid": "taiga:yrdeen_fluid",
+    "amount": 1296
+  },
+  "temperature": 410,
+  "time": 140
+}

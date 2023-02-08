@@ -1,0 +1,21 @@
+{
+  "type": "tconstruct:melting",
+  "conditions": [
+    {
+      "value": {
+        "tag": "forge:dusts/astrium",
+        "type": "forge:tag_empty"
+      },
+      "type": "forge:not"
+    }
+  ],
+  "ingredient": {
+    "tag": "forge:dusts/astrium"
+  },
+  "result": {
+    "fluid": "taiga:astrium_fluid",
+    "amount": 144
+  },
+  "temperature": 380,
+  "time": 34
+}

@@ -1,0 +1,21 @@
+{
+  "type": "tconstruct:melting",
+  "conditions": [
+    {
+      "value": {
+        "tag": "forge:rods/ovium",
+        "type": "forge:tag_empty"
+      },
+      "type": "forge:not"
+    }
+  ],
+  "ingredient": {
+    "tag": "forge:rods/ovium"
+  },
+  "result": {
+    "fluid": "taiga:ovium_fluid",
+    "amount": 72
+  },
+  "temperature": 450,
+  "time": 10
+}

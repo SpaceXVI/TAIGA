@@ -1,0 +1,34 @@
+{
+  "type": "forge:conditional",
+  "recipes": [
+    {
+      "conditions": [
+        {
+          "values": [
+            {
+              "item": "taiga:obsidiorite_ingot",
+              "type": "forge:item_exists"
+            },
+            {
+              "item": "taiga:obsidiorite_nugget",
+              "type": "forge:item_exists"
+            }
+          ],
+          "type": "forge:and"
+        }
+      ],
+      "recipe": {
+        "type": "minecraft:crafting_shapeless",
+        "ingredients": [
+          {
+            "item": "taiga:obsidiorite_ingot"
+          }
+        ],
+        "result": {
+          "item": "taiga:obsidiorite_nugget",
+          "count": 9
+        }
+      }
+    }
+  ]
+}

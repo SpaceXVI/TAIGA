@@ -1,0 +1,34 @@
+{
+  "type": "forge:conditional",
+  "recipes": [
+    {
+      "conditions": [
+        {
+          "values": [
+            {
+              "item": "taiga:meteorite_ingot",
+              "type": "forge:item_exists"
+            },
+            {
+              "item": "taiga:meteorite_nugget",
+              "type": "forge:item_exists"
+            }
+          ],
+          "type": "forge:and"
+        }
+      ],
+      "recipe": {
+        "type": "minecraft:crafting_shapeless",
+        "ingredients": [
+          {
+            "item": "taiga:meteorite_ingot"
+          }
+        ],
+        "result": {
+          "item": "taiga:meteorite_nugget",
+          "count": 9
+        }
+      }
+    }
+  ]
+}

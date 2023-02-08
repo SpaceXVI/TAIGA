@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:casting_table",
+  "cast": {
+    "tag": "tconstruct:casts/multi_use/nugget"
+  },
+  "fluid": {
+    "tag": "taiga:palladium_fluid",
+    "amount": 16
+  },
+  "result": "taiga:palladium_nugget",
+  "cooling_time": 15
+}

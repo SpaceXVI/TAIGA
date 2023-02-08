@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "tag": "forge:nuggets/jauxum"
+  },
+  "result": {
+    "fluid": "taiga:jauxum_fluid",
+    "amount": 16
+  },
+  "temperature": 450,
+  "time": 16
+}

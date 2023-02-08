@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:casting_basin",
+  "fluid": {
+    "tag": "taiga:lumix_fluid",
+    "amount": 1296
+  },
+  "result": "taiga:lumix_block",
+  "cooling_time": 107
+}

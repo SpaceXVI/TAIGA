@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "tag": "forge:storage_blocks/meteorite"
+  },
+  "result": {
+    "fluid": "taiga:meteorite_fluid",
+    "amount": 288
+  },
+  "temperature": 650,
+  "time": 83
+}

@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    "#forge:basalt_fluid",
+    "#forge:dilithium_fluid",
+    "#forge:jauxum_fluid",
+    "#forge:karmesine_fluid",
+    "#forge:meteorite_fluid",
+    "#forge:obsidiorite_fluid",
+    "#forge:ovium_fluid",
+    "#forge:prometheum_fluid",
+    "#forge:terrax_fluid",
+    "#forge:tiberium_fluid",
+    "#forge:triberium_fluid",
+    "#forge:tritonite_fluid"
+  ]
+}

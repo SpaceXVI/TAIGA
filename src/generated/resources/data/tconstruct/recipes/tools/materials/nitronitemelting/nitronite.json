@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:material_melting",
+  "input": "taiga:nitronite",
+  "temperature": 2800,
+  "result": {
+    "fluid": "taiga:nitronite_fluid",
+    "amount": 144
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "tag": "forge:nuggets/seismum"
+  },
+  "result": {
+    "fluid": "taiga:seismum_fluid",
+    "amount": 16
+  },
+  "temperature": 420,
+  "time": 16
+}

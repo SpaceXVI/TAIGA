@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:material_fluid",
+  "fluid": {
+    "tag": "taiga:astrium_fluid",
+    "amount": 144
+  },
+  "temperature": 380,
+  "output": "taiga:astrium"
+}

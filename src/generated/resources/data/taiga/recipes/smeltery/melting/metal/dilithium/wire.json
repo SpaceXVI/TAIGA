@@ -1,0 +1,21 @@
+{
+  "type": "tconstruct:melting",
+  "conditions": [
+    {
+      "value": {
+        "tag": "forge:wires/dilithium",
+        "type": "forge:tag_empty"
+      },
+      "type": "forge:not"
+    }
+  ],
+  "ingredient": {
+    "tag": "forge:wires/dilithium"
+  },
+  "result": {
+    "fluid": "taiga:dilithium_fluid",
+    "amount": 72
+  },
+  "temperature": 1200,
+  "time": 14
+}

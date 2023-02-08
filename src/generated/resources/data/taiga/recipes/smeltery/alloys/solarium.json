@@ -1,0 +1,22 @@
+{
+  "type": "tconstruct:alloy",
+  "inputs": [
+    {
+      "name": "taiga:valyrium_fluid",
+      "amount": 2
+    },
+    {
+      "name": "taiga:uru_fluid",
+      "amount": 2
+    },
+    {
+      "name": "taiga:nucleum_fluid",
+      "amount": 1
+    }
+  ],
+  "result": {
+    "fluid": "taiga:solarium_fluid",
+    "amount": 2
+  },
+  "temperature": 1200
+}

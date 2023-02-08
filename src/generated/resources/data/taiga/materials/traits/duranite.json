@@ -1,0 +1,8 @@
+{
+  "default": [
+    {
+      "name": "taiga:analysing",
+      "level": 1
+    }
+  ]
+}

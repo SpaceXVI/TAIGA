@@ -1,0 +1,23 @@
+{
+  "type": "tconstruct:casting_table",
+  "conditions": [
+    {
+      "value": {
+        "tag": "forge:rods/ovium",
+        "type": "forge:tag_empty"
+      },
+      "type": "forge:not"
+    }
+  ],
+  "cast": {
+    "tag": "tconstruct:casts/multi_use/rod"
+  },
+  "fluid": {
+    "tag": "taiga:ovium_fluid",
+    "amount": 72
+  },
+  "result": {
+    "tag": "forge:rods/ovium"
+  },
+  "cooling_time": 34
+}

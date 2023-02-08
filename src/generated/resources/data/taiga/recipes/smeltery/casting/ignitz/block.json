@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:casting_basin",
+  "fluid": {
+    "tag": "taiga:ignitz_fluid",
+    "amount": 1296
+  },
+  "result": "taiga:ignitz_block",
+  "cooling_time": 166
+}

@@ -1,0 +1,21 @@
+{
+  "type": "tconstruct:melting",
+  "conditions": [
+    {
+      "value": {
+        "tag": "forge:rods/eezo",
+        "type": "forge:tag_empty"
+      },
+      "type": "forge:not"
+    }
+  ],
+  "ingredient": {
+    "tag": "forge:rods/eezo"
+  },
+  "result": {
+    "fluid": "taiga:eezo_fluid",
+    "amount": 72
+  },
+  "temperature": 150,
+  "time": 7
+}

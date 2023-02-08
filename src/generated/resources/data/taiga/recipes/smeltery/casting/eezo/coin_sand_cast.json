@@ -1,0 +1,24 @@
+{
+  "type": "tconstruct:casting_table",
+  "conditions": [
+    {
+      "value": {
+        "tag": "forge:coins/eezo",
+        "type": "forge:tag_empty"
+      },
+      "type": "forge:not"
+    }
+  ],
+  "cast": {
+    "tag": "tconstruct:casts/single_use/coin"
+  },
+  "cast_consumed": true,
+  "fluid": {
+    "tag": "taiga:eezo_fluid",
+    "amount": 48
+  },
+  "result": {
+    "tag": "forge:coins/eezo"
+  },
+  "cooling_time": 21
+}

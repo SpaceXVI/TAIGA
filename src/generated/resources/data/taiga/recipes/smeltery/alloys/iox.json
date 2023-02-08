@@ -1,0 +1,26 @@
+{
+  "type": "tconstruct:alloy",
+  "inputs": [
+    {
+      "name": "taiga:eezo_fluid",
+      "amount": 2
+    },
+    {
+      "name": "taiga:abyssum_fluid",
+      "amount": 2
+    },
+    {
+      "name": "taiga:osram_fluid",
+      "amount": 2
+    },
+    {
+      "name": "taiga:obsidiorite_fluid",
+      "amount": 9
+    }
+  ],
+  "result": {
+    "fluid": "taiga:iox_fluid",
+    "amount": 1
+  },
+  "temperature": 600
+}

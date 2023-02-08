@@ -1,0 +1,23 @@
+{
+  "type": "tconstruct:casting_table",
+  "conditions": [
+    {
+      "value": {
+        "tag": "forge:wires/obsidiorite",
+        "type": "forge:tag_empty"
+      },
+      "type": "forge:not"
+    }
+  ],
+  "cast": {
+    "tag": "tconstruct:casts/multi_use/wire"
+  },
+  "fluid": {
+    "tag": "taiga:obsidiorite_fluid",
+    "amount": 72
+  },
+  "result": {
+    "tag": "forge:wires/obsidiorite"
+  },
+  "cooling_time": 41
+}

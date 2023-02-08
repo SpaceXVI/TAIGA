@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:material",
+  "ingredient": {
+    "tag": "forge:storage_blocks/osram"
+  },
+  "value": 9,
+  "needed": 1,
+  "material": "taiga:osram",
+  "leftover": {
+    "tag": "forge:ingots/osram"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "tag": "forge:storage_blocks/obsidiorite"
+  },
+  "result": {
+    "fluid": "taiga:obsidiorite_fluid",
+    "amount": 288
+  },
+  "temperature": 750,
+  "time": 88
+}

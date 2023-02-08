@@ -1,0 +1,13 @@
+{
+  "type": "tconstruct:casting_table",
+  "cast": {
+    "tag": "tconstruct:casts/single_use/gem"
+  },
+  "cast_consumed": true,
+  "fluid": {
+    "name": "taiga:obsidiorite_fluid",
+    "amount": 72
+  },
+  "result": "minecraft:air",
+  "cooling_time": 41
+}

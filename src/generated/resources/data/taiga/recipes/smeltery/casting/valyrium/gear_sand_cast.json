@@ -1,0 +1,24 @@
+{
+  "type": "tconstruct:casting_table",
+  "conditions": [
+    {
+      "value": {
+        "tag": "forge:gears/valyrium",
+        "type": "forge:tag_empty"
+      },
+      "type": "forge:not"
+    }
+  ],
+  "cast": {
+    "tag": "tconstruct:casts/single_use/gear"
+  },
+  "cast_consumed": true,
+  "fluid": {
+    "tag": "taiga:valyrium_fluid",
+    "amount": 576
+  },
+  "result": {
+    "tag": "forge:gears/valyrium"
+  },
+  "cooling_time": 166
+}

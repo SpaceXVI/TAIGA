@@ -1,0 +1,22 @@
+{
+  "type": "tconstruct:alloy",
+  "inputs": [
+    {
+      "name": "taiga:karmesine_fluid",
+      "amount": 1
+    },
+    {
+      "name": "taiga:ovium_fluid",
+      "amount": 1
+    },
+    {
+      "name": "taiga:jauxum_fluid",
+      "amount": 1
+    }
+  ],
+  "result": {
+    "fluid": "taiga:terrax_fluid",
+    "amount": 2
+  },
+  "temperature": 550
+}

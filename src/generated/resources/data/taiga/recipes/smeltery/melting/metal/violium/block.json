@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "tag": "forge:storage_blocks/violium"
+  },
+  "result": {
+    "fluid": "taiga:violium_fluid",
+    "amount": 1296
+  },
+  "temperature": 550,
+  "time": 155
+}

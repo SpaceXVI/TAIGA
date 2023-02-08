@@ -1,0 +1,21 @@
+{
+  "type": "tconstruct:melting",
+  "conditions": [
+    {
+      "value": {
+        "tag": "forge:coins/uru",
+        "type": "forge:tag_empty"
+      },
+      "type": "forge:not"
+    }
+  ],
+  "ingredient": {
+    "tag": "forge:coins/uru"
+  },
+  "result": {
+    "fluid": "taiga:uru_fluid",
+    "amount": 48
+  },
+  "temperature": 900,
+  "time": 42
+}

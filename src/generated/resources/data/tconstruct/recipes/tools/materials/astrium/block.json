@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:material",
+  "ingredient": {
+    "tag": "forge:storage_blocks/astrium"
+  },
+  "value": 9,
+  "needed": 1,
+  "material": "taiga:astrium",
+  "leftover": {
+    "tag": "forge:ingots/astrium"
+  }
+}

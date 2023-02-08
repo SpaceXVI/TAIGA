@@ -1,0 +1,38 @@
+{
+  "type": "forge:conditional",
+  "recipes": [
+    {
+      "conditions": [
+        {
+          "values": [
+            {
+              "item": "taiga:terrax_ingot",
+              "type": "forge:item_exists"
+            },
+            {
+              "item": "taiga:terrax_nugget",
+              "type": "forge:item_exists"
+            }
+          ],
+          "type": "forge:and"
+        }
+      ],
+      "recipe": {
+        "type": "minecraft:crafting_shaped",
+        "pattern": [
+          "###",
+          "###",
+          "###"
+        ],
+        "key": {
+          "#": {
+            "item": "taiga:terrax_nugget"
+          }
+        },
+        "result": {
+          "item": "taiga:terrax_ingot"
+        }
+      }
+    }
+  ]
+}

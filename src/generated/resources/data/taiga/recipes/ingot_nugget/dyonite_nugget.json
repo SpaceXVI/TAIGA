@@ -1,0 +1,34 @@
+{
+  "type": "forge:conditional",
+  "recipes": [
+    {
+      "conditions": [
+        {
+          "values": [
+            {
+              "item": "taiga:dyonite_ingot",
+              "type": "forge:item_exists"
+            },
+            {
+              "item": "taiga:dyonite_nugget",
+              "type": "forge:item_exists"
+            }
+          ],
+          "type": "forge:and"
+        }
+      ],
+      "recipe": {
+        "type": "minecraft:crafting_shapeless",
+        "ingredients": [
+          {
+            "item": "taiga:dyonite_ingot"
+          }
+        ],
+        "result": {
+          "item": "taiga:dyonite_nugget",
+          "count": 9
+        }
+      }
+    }
+  ]
+}

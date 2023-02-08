@@ -1,0 +1,18 @@
+{
+  "type": "tconstruct:alloy",
+  "inputs": [
+    {
+      "name": "tconstruct:magma",
+      "amount": 6
+    },
+    {
+      "name": "taiga:osram_fluid",
+      "amount": 1
+    }
+  ],
+  "result": {
+    "fluid": "taiga:nitronite_fluid",
+    "amount": 6
+  },
+  "temperature": 1500
+}

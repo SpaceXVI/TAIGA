@@ -1,0 +1,22 @@
+{
+  "type": "tconstruct:alloy",
+  "inputs": [
+    {
+      "name": "taiga:vibranium_fluid",
+      "amount": 1
+    },
+    {
+      "name": "taiga:solarium_fluid",
+      "amount": 1
+    },
+    {
+      "name": "taiga:iox_fluid",
+      "amount": 3
+    }
+  ],
+  "result": {
+    "fluid": "taiga:adamant_fluid",
+    "amount": 3
+  },
+  "temperature": 1350
+}

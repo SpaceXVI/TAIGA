@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "taiga:block/meteorite_cobble_block"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:ore_melting",
+  "ingredient": {
+    "tag": "forge:ores/uru"
+  },
+  "result": {
+    "fluid": "taiga:uru_fluid",
+    "amount": 144
+  },
+  "temperature": 900,
+  "time": 95
+}

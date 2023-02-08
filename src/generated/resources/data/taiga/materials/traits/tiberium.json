@@ -1,0 +1,8 @@
+{
+  "default": [
+    {
+      "name": "taiga:unstable",
+      "level": 1
+    }
+  ]
+}

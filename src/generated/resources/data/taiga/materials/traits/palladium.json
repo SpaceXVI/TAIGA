@@ -1,0 +1,12 @@
+{
+  "default": [
+    {
+      "name": "taiga:dark",
+      "level": 1
+    },
+    {
+      "name": "taiga:cursed",
+      "level": 1
+    }
+  ]
+}

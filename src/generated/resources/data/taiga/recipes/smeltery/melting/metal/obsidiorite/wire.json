@@ -1,0 +1,21 @@
+{
+  "type": "tconstruct:melting",
+  "conditions": [
+    {
+      "value": {
+        "tag": "forge:wires/obsidiorite",
+        "type": "forge:tag_empty"
+      },
+      "type": "forge:not"
+    }
+  ],
+  "ingredient": {
+    "tag": "forge:wires/obsidiorite"
+  },
+  "result": {
+    "fluid": "taiga:obsidiorite_fluid",
+    "amount": 72
+  },
+  "temperature": 750,
+  "time": 12
+}

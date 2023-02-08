@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "taiga:block/dilithium_fluid_block"
+    }
+  }
+}

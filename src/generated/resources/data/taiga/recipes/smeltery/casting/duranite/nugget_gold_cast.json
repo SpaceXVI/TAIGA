@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:casting_table",
+  "cast": {
+    "tag": "tconstruct:casts/multi_use/nugget"
+  },
+  "fluid": {
+    "tag": "taiga:duranite_fluid",
+    "amount": 16
+  },
+  "result": "taiga:duranite_nugget",
+  "cooling_time": 23
+}

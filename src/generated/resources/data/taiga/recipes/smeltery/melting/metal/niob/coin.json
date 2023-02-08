@@ -1,0 +1,21 @@
+{
+  "type": "tconstruct:melting",
+  "conditions": [
+    {
+      "value": {
+        "tag": "forge:coins/niob",
+        "type": "forge:tag_empty"
+      },
+      "type": "forge:not"
+    }
+  ],
+  "ingredient": {
+    "tag": "forge:coins/niob"
+  },
+  "result": {
+    "fluid": "taiga:niob_fluid",
+    "amount": 48
+  },
+  "temperature": 250,
+  "time": 27
+}

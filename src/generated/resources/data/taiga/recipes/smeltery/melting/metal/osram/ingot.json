@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "tag": "forge:ingots/osram"
+  },
+  "result": {
+    "fluid": "taiga:osram_fluid",
+    "amount": 144
+  },
+  "temperature": 500,
+  "time": 50
+}

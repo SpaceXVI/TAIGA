@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:material_fluid",
+  "fluid": {
+    "tag": "taiga:meteorite_fluid",
+    "amount": 144
+  },
+  "temperature": 650,
+  "output": "taiga:meteorite"
+}

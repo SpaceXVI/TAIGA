@@ -1,0 +1,38 @@
+{
+  "type": "forge:conditional",
+  "recipes": [
+    {
+      "conditions": [
+        {
+          "values": [
+            {
+              "item": "taiga:lumix_ingot",
+              "type": "forge:item_exists"
+            },
+            {
+              "item": "taiga:lumix_nugget",
+              "type": "forge:item_exists"
+            }
+          ],
+          "type": "forge:and"
+        }
+      ],
+      "recipe": {
+        "type": "minecraft:crafting_shaped",
+        "pattern": [
+          "###",
+          "###",
+          "###"
+        ],
+        "key": {
+          "#": {
+            "item": "taiga:lumix_nugget"
+          }
+        },
+        "result": {
+          "item": "taiga:lumix_ingot"
+        }
+      }
+    }
+  ]
+}

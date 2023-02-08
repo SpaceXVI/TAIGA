@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:melting_fuel",
+  "fluid": {
+    "name": "taiga:nitronite_fluid",
+    "amount": 100
+  },
+  "duration": 500,
+  "temperature": 3100
+}
